@@ -1,2 +1,2 @@
 # Python
-Python basic questions
+Python Questions
